@@ -1,0 +1,11 @@
+{
+    "LAYOUT": {
+        "DELIMITER": " @@@ ",
+        "COMBINATION": " +++ "
+    },
+    "SETTINGS": {
+        "showMessages": true,
+        "showNotifications": false,
+        "shutDownMsg": "Good Bye"
+    }
+}
